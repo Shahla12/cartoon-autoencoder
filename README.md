@@ -26,7 +26,7 @@ The project uses a Convolutional Autoencoder, consisting of:
   2. Decoder: Reconstructs the image in a simplified cartoon style.
   3. Loss Function: Mean Squared Error (MSE) or a combined perceptual loss for smooth texture generation.
 
-### 🧾 **Dataset**
+### 🧾 Dataset
 
 You can create your own dataset or use a dataset structured as:
 
@@ -38,4 +38,14 @@ cartoon_dataset/
 └── validation/
     ├── val_image/         # Validation real images
     └── val_cartoon/       # Validation cartoon-style images
+
+
+### 🚀 How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/cartoon-autoencoder.git
+cd cartoon-autoencoder
+
 
