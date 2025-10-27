@@ -38,6 +38,7 @@ cartoon_dataset/
 └── validation/
     ├── val_image/         # Validation real images
     └── val_cartoon/       # Validation cartoon-style images
+text```
 
 
 ### 🚀 **How to Run**
