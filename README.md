@@ -50,3 +50,21 @@ git clone https://github.com/<your-username>/cartoon-autoencoder.git
 cd cartoon-autoencoder
 ```
 
+Install dependencies:
+
+```text
+pip install -r requirements.txt
+```
+
+Train the model:
+
+```text
+python train_autoencoder.py
+```
+
+Test or cartoonify an image:
+
+```text
+python cartoonify_image.py --input "sample.jpg" --output "cartoon_output.jpg"
+```
+
