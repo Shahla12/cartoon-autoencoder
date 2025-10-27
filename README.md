@@ -40,12 +40,11 @@ cartoon_dataset/
     └── val_cartoon/       # Validation cartoon-style images
 
 
-### 🚀 How to Run
+### 🚀 **How to Run**
 
 Clone the repository:
 
-```bash
+```text
 git clone https://github.com/<your-username>/cartoon-autoencoder.git
 cd cartoon-autoencoder
-
 
